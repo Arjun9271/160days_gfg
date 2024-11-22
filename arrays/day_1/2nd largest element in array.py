@@ -16,3 +16,6 @@ def second_largest_element(arr):
 value = second_largest_element([1,4,5,2,3])
 
 print(f"the second largest element is {value} ")
+
+# [1,4,5,2,3]
+#ans - 4

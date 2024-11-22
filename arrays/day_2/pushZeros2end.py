@@ -9,3 +9,6 @@ def pushZeros2end(arr):
 
 modified_arr = pushZeros2end([1,2,0,3,0,5])
 print(modified_arr)
+
+# arr = [1,2,0,3,0,5]
+# ans-[1,2,3,5,0,0]

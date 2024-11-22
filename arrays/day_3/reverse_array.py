@@ -13,3 +13,6 @@ def reverse_array(arr):
 arr = [1,7,2,9] 
 p = reverse_array(arr)
 print(p)
+
+# arr = [1,7,2,9]
+#ans arr = [9,2,7,1]
